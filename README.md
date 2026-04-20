@@ -16,6 +16,7 @@ This repository is a professional index of Red Hat Knowledge-Centered Service (K
 | RHOCP   | [ClusterPolicy stuck in `notReady` state after NVIDIA GPU Operator upgrade](https://access.redhat.com/solutions/7133544)            | `7133544` |
 | RHOCP   | [The `prometheus-k8s` pods stuck in `Pending` state](https://access.redhat.com/solutions/7134506)                                   | `7134506` |
 | RHOCP   | [The `metrics-server` pod fails to establish connection towards `kube-apiserver`](https://access.redhat.com/solutions/7135060)      | `7135060` |
+| RHOCP   | [The `olm-operator` is stuck in `CrashLoopBackOff` state](https://access.redhat.com/solutions/7141518)                                | `7141518` |
 
 ### 🌐 Hybrid Cloud Management
 
